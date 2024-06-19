@@ -1,2 +1,3 @@
-cptactionhank/atlassian-confluence:latest
-cptactionhank/atlassian-jira:latest
+mysql:8.0
+haxqer/confluence:8.9.3
+haxqer/jira:9.16.1
